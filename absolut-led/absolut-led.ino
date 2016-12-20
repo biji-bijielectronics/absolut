@@ -8,9 +8,9 @@ bb_LED led5(10);
 bb_LED led6(11);
 
 
-int delay_time = 4000;
+int delay_time = 10000;
 
-int fade_time = 1000;
+int fade_time = 5000;
 
 
 int active = 0;
